@@ -10,7 +10,7 @@ This project utilizes object detection techniques and natural language generatio
    Clone the GitHub repository to your local machine.
 
    ```bash
-   https://github.com/VishalSale/The_Art_of_Visual_Storytelling_Project.git
+   git clone https://github.com/VishalSale/The_Art_of_Visual_Storytelling_Project.git
    ```
 
 2. **Install Dependencies:**
